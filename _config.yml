@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Associate"
   location         : "Hong Kong"
-  employer         : '<a href="https://www.grm.cuhk.edu.hk/en/">Department of Geography & Resource Management</a>, <br> <a href="https://www.cuhk.edu.hk/english/">The Chinese University of Hong Kong</a>'
+  # employer         : '<a href="https://www.grm.cuhk.edu.hk/en/">Department of Geography & Resource Management</a>, <br> <a href="https://www.cuhk.edu.hk/english/">The Chinese University of Hong Kong</a>'
   uri              : # URL
   email            : "kaisun@cuhk.edu.hk" 
 
