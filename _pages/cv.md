@@ -1,17 +1,12 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv-json/
-author_profile: false
-redirect_from:
-  - /resume-json
+permalink: /cv/
+author_profile: true
 ---
 
 {% include base_path %}
 
-{% include cv-template.html %}
+You can download my full curriculum vitae as a PDF by clicking the link below:
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+[**Download my CV (PDF)**]({{ base_path }}/files/Sun_Kai_CV.pdf)
