@@ -23,5 +23,5 @@ author_profile: true
 * [PLOS ONE](https://journals.plos.org/plosone/)
 * [Remote Sensing](https://www.mdpi.com/journal/remotesensing/)
 * [Sustainability](https://www.mdpi.com/journal/sustainability)
-
 * [Buildings](https://www.mdpi.com/journal/buildings)
+
