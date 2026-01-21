@@ -9,4 +9,4 @@ author_profile: true
 
 You can download my full curriculum vitae as a PDF by clicking the link below:
 
-[**Download my CV (PDF)**]({{ base_path }}/files/Sun_Kai_CV.pdf)
+[**Download my CV (PDF)**]({{ base_path }}/files/CV_KaiSun.pdf)
