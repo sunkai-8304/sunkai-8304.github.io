@@ -1,3 +1,15 @@
+---
+widget: blank
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...
+title: Publications
+subtitle:
+weight: 50  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
+---
 24\. Zhou, R. Z., Hu, Y., **Sun, K.**, Muldoon, R., Clark, S. & Joseph, K. (2025). [Explainable GeoAI and statistical analysis reveal complementary insights about disparities of 311 help requests during the 2022 Buffalo blizzard](https://www.sciencedirect.com/science/article/pii/S2212420925004595). *International Journal of Disaster Risk Reduction*, 126, 105635.  
 23\. **Sun, K.**, Hu, Y., Kenneth J., & Zhou, R. Z. (2025). [GALLOC: A GeoAnnotator for Labeling LOCation descriptions from disaster-related text messages](https://doi.org/10.1080/13658816.2025.2464643). *International Journal of Geographical Information Science*. In press.  
 22\. Qiu, Q., Li, H., Hu, X., Tian, M., Ma K., Zhu, Y., **Sun, K.\***, Li, W., Wang, S., & Xie, Z. (2024). [A knowledge-guided spatio-temporal correlation measure considering rules and dependency syntax for knowledge graph adaptive representation](https://onlinelibrary.wiley.com/doi/10.1111/tgis.13288). *Transactions in GIS*. In press.  
