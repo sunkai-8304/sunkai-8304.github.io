@@ -1,3 +1,14 @@
+---
+widget: blank
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...  'Accomplish&shy;ments'
+subtitle:
+weight: 80  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
+---
 10\. Oral presentation (2025): PyGRF: An improved Python Geographical Random Forest model and case studies in public health and natural disasters, *the 2nd National Conference on Information Geography*, August 18-20, 2025, Chengdu, China.  
 9\. Oral presentation (2025): PyGRF: An improved Python Geographical Random Forest model and case studies in public health and natural disasters, *the 4th Intelligent Surveying and Mapping Symposium*, June 13-15, 2025, Guangzhou, China.  
 8\. Oral presentation (2024): PyGRF: An improved Python Geographical Random Forest model and case studies in public health and natural disasters, *2024 Esri User Conference: Innovations in GI Science*, July 15-19, 2024, San Diego, California, USA.  
