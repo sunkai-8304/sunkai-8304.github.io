@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% include base_path %}
+{% include base_path %}  
 10\. Oral presentation (2025): PyGRF: An improved Python Geographical Random Forest model and case studies in public health and natural disasters, *the 2nd National Conference on Information Geography*, August 18-20, 2025, Chengdu, China. 
 <p style="margin-bottom: 10px;"></p>
 9\. Oral presentation (2025): PyGRF: An improved Python Geographical Random Forest model and case studies in public health and natural disasters, *the 4th Intelligent Surveying and Mapping Symposium*, June 13-15, 2025, Guangzhou, China. 
